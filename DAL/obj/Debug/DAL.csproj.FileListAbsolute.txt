@@ -1,0 +1,7 @@
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\DAL\bin\Debug\DAL.dll
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\DAL\bin\Debug\DAL.pdb
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\DAL\bin\Debug\Modelo.dll
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\DAL\bin\Debug\Modelo.pdb
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\DAL\obj\Debug\DAL.dll
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\DAL\obj\Debug\DAL.pdb

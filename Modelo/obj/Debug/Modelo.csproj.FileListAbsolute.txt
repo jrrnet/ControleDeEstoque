@@ -1,0 +1,5 @@
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
