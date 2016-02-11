@@ -1,6 +1,6 @@
 [![JRWIKI](http://jrwiki.info/wp-content/uploads/2015/04/logo.png)] (http://jrwiki.info)
 
-#Projeto Controle de Estoue em 3 camadas linguagem C#
+#Projeto Controle de Estoque em 3 camadas linguagem C#
 
 Descrição Português
 -------------------
