@@ -61,6 +61,13 @@ namespace BLL
             return DALobj.Localizar(valor);
         }
 
+        // Verifica dados
+        public int VerificaUnidadeDeMedida(String valor)
+        {
+            DALUnidadeDeMedida DALobj = new DALUnidadeDeMedida(conexao);
+            return DALobj.VerificaUnidadeDeMedida(valor);
+        }
+
         // Carrega Modelo
         public ModeloUnidadeDeMedida CarregaModeloUnidadeDeMedida(int codigo)
         {

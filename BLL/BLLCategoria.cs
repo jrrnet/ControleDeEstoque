@@ -38,7 +38,7 @@ namespace BLL
         {
             if (modelo.CatCod <= 0)
             {
-                throw new Exception("O codigo da categoria pe obrigatorio");
+                throw new Exception("O codigo da categoria é obrigatorio");
             }
             if (modelo.CatNome.Trim().Length == 0)
             {

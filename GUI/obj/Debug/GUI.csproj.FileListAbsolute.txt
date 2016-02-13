@@ -18,3 +18,5 @@ D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastro
 D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaCategoria.resources
 D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroSubCategoria.resources
 D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaSubCategoria.resources
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\GUI\obj\Debug\GUI.frmCadastroUnidadeDeMedida.resources
+D:\UNOPAR\SEMESTRE-5\PROJETOS\C#\ControleDeEstoque\GUI\obj\Debug\GUI.frmConsultaUnidadeDeMedida.resources

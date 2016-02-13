@@ -48,7 +48,6 @@ namespace GUI
         // Botão Salvar
         private void btSalvar_Click(object sender, EventArgs e)
         {
-
            try
            {            
               // Leitura dos dados nos campos
