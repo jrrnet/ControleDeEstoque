@@ -1,6 +1,6 @@
-[![JRWIKI](http://jrwiki.info/wp-content/uploads/2015/04/logo.png)] (http://jrwiki.info)
+[![JRWIKI](http://jrwiki.pe.hu/wp-content/uploads/2016/05/logo.png)] (http://jrwiki.pe.hu)
 
-#Projeto Controle de Estoque em 3 camadas linguagem C#
+#Projeto Controle de Estoque no padrão MVC 3 camadas linguagem utilizada C#
 
 Descrição Português
 -------------------
@@ -41,5 +41,5 @@ Requirements
 
 - Oracle Bank
 - Visual Studio 2013
-- Editor C #
+- Editor C#
 
